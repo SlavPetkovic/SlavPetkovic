@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @SlavPetkovic
-- 👀 I’m interested in Data Science, Python, C#, React...
+- I am a data scientist, python developer, Bi Developer
+- 👀 I’m interested in Data Science, Python, C#, React, Power BI, Sisense, Tableau...
 - 🌱 I’m currently learning FrontEnd Development
 - 💞️ I’m looking to collaborate on BackEnd and FrondEnd Development
 - 📫 How to reach me slavoljub.petkovic@outlook.com
